@@ -12,8 +12,5 @@
   ],
   "require": {
   	"php": ">=4.3.10"
-  },
-  "autoload": {
-  	"files": ["qrlib.php"]
   }
 }
